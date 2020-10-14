@@ -3,6 +3,7 @@ import styles from './index.less';
 
 import Header from '@/components/header';
 import Login from '@/components/login';
+import Footer from '@/components/footer'
 import { history } from 'umi';
 interface Props {
 
@@ -19,6 +20,7 @@ const Index: React.FC<Props> = props => {
       <div className={styles['login-block']}>
         <Login />
       </div>
+      <Footer />
     </div>
   )
 }
