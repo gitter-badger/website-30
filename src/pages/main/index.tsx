@@ -18,6 +18,12 @@ const Index: React.FC<Props> = props => {
     <div className={styles.main}>
       <Header />
       <div className={styles['login-block']}>
+        <div className={styles.title}>
+          Code Debug
+           <div className={styles['sub-title']}>
+            Code Debug 是程序调试，交流技术的快捷平台
+           </div>
+        </div>
         <Login />
       </div>
       <Footer />
