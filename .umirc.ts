@@ -9,6 +9,6 @@ export default defineConfig({
   title: "codebug",
   routes: [
     { path: '/', component: '@/pages/main' },
-    { path: '/login', component: '@/pages/login' },
+    { path: '/home', component: '@/pages/home' }
   ],
 });
