@@ -25,7 +25,6 @@
     "@umijs/preset-react": "1.x",
     "@umijs/test": "^3.2.23",
     "antd": "^4.7.0",
-    "gitment": "^0.0.3",
     "lint-staged": "^10.0.7",
     "prettier": "^1.19.1",
     "react": "^16.12.0",
