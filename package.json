@@ -22,12 +22,10 @@
   "dependencies": {
     "@ant-design/icons": "^4.2.2",
     "@ant-design/pro-layout": "^5.0.12",
-    "@ckeditor/ckeditor5-build-classic": "^23.0.0",
-    "@ckeditor/ckeditor5-react": "^2.1.0",
     "@umijs/preset-react": "1.x",
     "@umijs/test": "^3.2.23",
     "antd": "^4.7.0",
-    "draft-js": "^0.11.7",
+    "gitment": "^0.0.3",
     "lint-staged": "^10.0.7",
     "prettier": "^1.19.1",
     "react": "^16.12.0",
@@ -35,7 +33,5 @@
     "umi": "^3.2.23",
     "yorkie": "^2.0.0"
   },
-  "devDependencies": {
-    "@types/draft-js": "^0.10.44"
-  }
+  "devDependencies": {}
 }

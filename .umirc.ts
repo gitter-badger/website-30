@@ -6,9 +6,10 @@ export default defineConfig({
   },
   ssr: {},
   exportStatic: {},
-  title: "codebug",
+  title: 'codebug',
   routes: [
     { path: '/', component: '@/pages/main' },
-    { path: '/home', component: '@/pages/home' }
+    { path: '/home', component: '@/pages/home' },
+    { path: '/article', component: '@/pages/article' },
   ],
 });
