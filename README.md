@@ -1,5 +1,7 @@
 # umi project
 
+[![Join the chat at https://gitter.im/katte-xu/codebug](https://badges.gitter.im/katte-xu/codebug.svg)](https://gitter.im/katte-xu/codebug?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Getting Started
 
 Install dependencies,
